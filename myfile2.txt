@@ -1,0 +1,5 @@
+Reading data from the files is a part of programming
+To read the data from file in unstructured format (like .txt), we will use function open()
+The  open()  function takes two arguments:
+To Name of the file (with path, if required)
+Mode of opening a file
